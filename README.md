@@ -26,7 +26,7 @@ pip install requests beautifulsoup4
 ## Usage
 Run the script directly:
 ```bash
-python noaa_json_scraper.py
+python scrape.py
 ```
 
 ### Output
